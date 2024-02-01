@@ -1,5 +1,3 @@
-import time
-import pandas
 import requests
 from Offer import Offer
 from bs4 import BeautifulSoup

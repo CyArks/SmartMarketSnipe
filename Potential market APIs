@@ -1,0 +1,23 @@
+1. eBay Browse API
+Description: Allows you to search for items listed on eBay and retrieve details that can be used for price comparison.
+Use Case: Ideal for comparing prices of consumer goods, collectibles, electronics, and more.
+Website: eBay Developer Program
+
+2. Amazon Product Advertising API
+Description: Provides access to product data on Amazon, including price information. Note that usage requires an Amazon affiliate account.
+Use Case: Suitable for a wide range of products available on Amazon, from books to electronics.
+Website: Amazon Associates
+
+3. Walmart Open API
+Description: Offers access to Walmart's product catalog, including pricing information.
+Use Case: Good for comparing prices on a variety of consumer products available at Walmart.
+Website: Walmart Developer Portal
+
+4. Best Buy Developer API
+Description: Provides access to Best Buy’s product catalog, including prices, descriptions, and availability.
+Use Case: Useful for electronics, appliances, and related accessories.
+Website: Best Buy Developer API
+
+5. Google Shopping API (Deprecated)
+Note: Google once offered a Shopping API that was ideal for price comparisons, but it has been deprecated.
+However, Google still provides product data through its Google Manufacturer Center and other retail solutions that might offer indirect ways to compare prices.
